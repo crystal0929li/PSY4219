@@ -1,0 +1,13 @@
+0.4956 	EXP 	fix on 0
+0.5621 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='images/IMG_3221.jpg', interpolate=False, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5  , 0.375]), texRes=128, units='height', win=Window(...))
+0.5771 	EXP 	fix off / stimulus on 0
+0.5788 	EXP 	stimulus off 0
+1.5263 	EXP 	fix on 1
+1.5867 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='images/IMG_3258.jpg', interpolate=False, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5  , 0.375]), texRes=128, units='height', win=Window(...))
+1.5883 	EXP 	fix off / stimulus on 1
+1.6474 	EXP 	stimulus off 1
+2.5599 	EXP 	fix on 2
+2.6319 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='images/IMG_3374.jpg', interpolate=False, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5  , 0.375]), texRes=128, units='height', win=Window(...))
+2.6343 	EXP 	fix off / stimulus on 2
+2.6349 	EXP 	stimulus off 2
+2.6936 	EXP 	window1: mouseVisible = True

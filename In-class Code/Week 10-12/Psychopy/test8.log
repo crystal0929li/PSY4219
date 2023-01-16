@@ -1,0 +1,10 @@
+0.1523 	EXP 	fix on 0
+0.5031 	EXP 	fix off / stimulus on 0
+1.0058 	EXP 	stimulus off 0
+2.0173 	EXP 	fix on 1
+2.5036 	EXP 	fix off / stimulus on 1
+3.0051 	EXP 	stimulus off 1
+4.0071 	EXP 	fix on 2
+4.5028 	EXP 	fix off / stimulus on 2
+5.0042 	EXP 	stimulus off 2
+6.2962 	EXP 	window1: mouseVisible = True
